@@ -1,9 +1,14 @@
-# My [Advent of Code](https://adventofcode.com) solutions
+# My [Advent of Code](https://adventofcode.com) progress
+
+## 2025
+
+**Language:** Javascript
+**Farthest answer:** TBD
 
 ## 2024
 
 **Language:** Javascript
-**Farthest answer:** TBD
+**Farthest answer:** 02-A
 
 ## 2023
 
